@@ -1,0 +1,23 @@
+﻿using BasicClass;
+using BasicClass.Latihan;
+
+//DemoKelas.main();
+//Lat_1.main();
+//Methods.main();
+//Konstruktor.main();
+//This.main();
+//PrivateModifier.main();
+//Lat_2.main();
+//MethodOverload.main();
+//PassByRefference.main();
+//ReturnObject.main();
+//PassByValue.main();
+//Lat_3.main();
+//Lat_4.main();
+//PassByRefference.main();
+//Lat_5.main();
+//Static.main();
+//Lat_7.main();
+//Lat_6.main();
+//NestedClass.main();
+Lat_8.main();
