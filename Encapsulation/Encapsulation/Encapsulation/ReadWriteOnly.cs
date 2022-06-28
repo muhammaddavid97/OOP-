@@ -55,12 +55,12 @@ namespace Encapsulation
             return string.Concat(this.firstname, " ", this.lastname);
         }
 
-        // mendefinisikan method write-only
+        // mendefinisikan property write-only
         public string Firstname { set { this.firstname = value; } }
 
         public string Lastname { set { this.lastname = value; } }
 
-        // mendefinisikan method read-only
+        // mendefinisikan property read-only
         public string FullName { get { return this.fullName(); } }
 
         public void printData()
